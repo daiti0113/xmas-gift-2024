@@ -12,12 +12,10 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start", 
-    "build": "react-scripts build", 
-    "test":"react-scripts test", 
-    "eject": "react-scripts eject", 
-    "predeploy": "npm run build && touch ./build/.nojekyll",
-    "deploy": "gh-pages -d build"
+    "start": "react-scripts start",
+    "build": "react-scripts build && touch build/.nojekyll && mv build docs",
+    "test":"react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

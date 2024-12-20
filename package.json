@@ -2,7 +2,7 @@
   "name": "xmas-gift-2024",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://daiti0113.github.io",
+  "homepage": "http://daiti0113.github.io/xmas-gift-2024",
   "dependencies": {
     "cra-template": "1.2.0",
     "gh-pages": "^6.2.0",

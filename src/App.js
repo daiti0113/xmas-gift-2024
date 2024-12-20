@@ -11,7 +11,7 @@ const GiftCatalog = () => {
       price: 0,
       rating: 4.5,
       reviews: 128,
-      image: "/brady_bag.png",
+      image: "./brady_bag.png",
       url: "https://jp.brady1887.com/",
       prime: true
     },
@@ -21,7 +21,7 @@ const GiftCatalog = () => {
       price: 0,
       rating: 4.2,
       reviews: 85,
-      image: "/samba.png",
+      image: "./samba.png",
       url: "https://www.adidas.jp/%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%BB%E9%9D%B4-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC",
       prime: true
     },
@@ -31,7 +31,7 @@ const GiftCatalog = () => {
       price: 0,
       rating: 4.7,
       reviews: 256,
-      image: "/ilbisonte.jpg",
+      image: "./ilbisonte.jpg",
       url: "https://www.ilbisonte.jp/",
       prime: true
     },
@@ -41,7 +41,7 @@ const GiftCatalog = () => {
       price: 0,
       rating: 4.3,
       reviews: 67,
-      image: "/refa.jpg",
+      image: "./refa.jpg",
       url: "https://www.mtgec.jp/shop/c/c1010a110",
       prime: true
     },
@@ -51,7 +51,7 @@ const GiftCatalog = () => {
       price: 0,
       rating: 4.3,
       reviews: 92,
-      image: "/rosebud.jpg",
+      image: "./rosebud.jpg",
       url: "https://www.rosebud-web.com/",
       prime: true
     },
@@ -61,7 +61,7 @@ const GiftCatalog = () => {
       price: 0,
       rating: 4.3,
       reviews: 57,
-      image: "/eightone.jpg",
+      image: "./eightone.jpg",
       url: "https://www.instagram.com/8_1eightone/",
       prime: true
     },
@@ -71,7 +71,7 @@ const GiftCatalog = () => {
       price: 0,
       rating: 4.3,
       reviews: 273,
-      image: "/clarks.png",
+      image: "./clarks.png",
       url: "https://www.clarks.co.jp/",
       prime: true
     }
@@ -87,7 +87,7 @@ const GiftCatalog = () => {
       <header className="bg-[#232f3f] text-white p-4">
         <div className="container mx-auto flex flex-col md:flex-row md:items-center space-y-4 md:space-y-0">
           <div className="flex items-center justify-between">
-            <img src="/yamakon_logo.png" alt="Gift Catalog" width={100} height={36} />
+            <img src="./yamakon_logo.png" alt="Gift Catalog" width={100} height={36} />
             {/* モバイルのみアイコンを表示 */}
             <div className="flex items-center space-x-4 md:hidden">
               <Heart className="cursor-pointer" size={20} strokeWidth={2.5} />

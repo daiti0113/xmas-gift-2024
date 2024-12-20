@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xmas-gift-2024/static/css/main.07de7665.css",
-    "main.js": "/xmas-gift-2024/static/js/main.f8f024c4.js",
+    "main.css": "/xmas-gift-2024/static/css/main.5a5d4fe9.css",
+    "main.js": "/xmas-gift-2024/static/js/main.8f1fd0ad.js",
     "static/js/488.b6fa9dd9.chunk.js": "/xmas-gift-2024/static/js/488.b6fa9dd9.chunk.js",
     "index.html": "/xmas-gift-2024/index.html",
-    "main.07de7665.css.map": "/xmas-gift-2024/static/css/main.07de7665.css.map",
-    "main.f8f024c4.js.map": "/xmas-gift-2024/static/js/main.f8f024c4.js.map",
+    "main.5a5d4fe9.css.map": "/xmas-gift-2024/static/css/main.5a5d4fe9.css.map",
+    "main.8f1fd0ad.js.map": "/xmas-gift-2024/static/js/main.8f1fd0ad.js.map",
     "488.b6fa9dd9.chunk.js.map": "/xmas-gift-2024/static/js/488.b6fa9dd9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07de7665.css",
-    "static/js/main.f8f024c4.js"
+    "static/css/main.5a5d4fe9.css",
+    "static/js/main.8f1fd0ad.js"
   ]
 }
